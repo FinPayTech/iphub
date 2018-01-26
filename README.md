@@ -1,5 +1,5 @@
 # iphub
-VPN/Proxy Detector using IPHub API
+VPN/Proxy/Server Detector using IPHub API
 
 # Installation
 composer require finpaytech/iphub
