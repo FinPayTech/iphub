@@ -1,0 +1,22 @@
+{
+    "name": "finpaytech/iphub",
+    "description": "VPN/Proxy/Server Detector using IPHub API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Systems",
+            "email": "systems@finpaytech.com"
+        }
+    ],
+    "require": {
+		"php" : "^5.5 || ^7.0",
+        "ext-mbstring": "*"	,
+		"ext-curl": "*"
+	},
+	"autoload": {
+        "psr-4": {
+            "FinPayTech\\IPHub": "src/"
+        }
+    }
+}
