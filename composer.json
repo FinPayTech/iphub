@@ -16,7 +16,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "FinPayTech\\IPHub\\": "src/"
+            "FinPayTech\\IPHub\\": "vendor/finpaytech/iphub/src/"
         }
     }
 }
